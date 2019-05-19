@@ -1,0 +1,24 @@
+#portada{
+	width: 100%;
+	height: 100%;
+}
+
+
+#cajatext{
+	text-align: justify;
+	
+	float: center;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding-top: 20px;
+}
+
+.iframe{
+	
+	padding: 200px;
+	
+}
+
+
+
+
